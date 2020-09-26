@@ -1,0 +1,13 @@
+{
+    "name": "kolya/bich",
+    "authors": [
+        {
+            "name": "kolyaProgger",
+            "email": "kolyaprogger@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "bin": [
+        "./hiBro.php"
+    ]
+}
